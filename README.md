@@ -79,7 +79,7 @@ Total Time: 3.01 seconds
 ### Status Indicators
 
 - ✅ **✓ SUCCESS**: Host is reachable and at least one tested port is open
-- ⚠️ **~ PARTIAL**: Host is reachable but tested ports are closed/filtered
+- ⚠️ **PARTIAL**: Host is reachable but tested ports are closed/filtered
 - ❌ **✗ FAILED**: Host is unreachable or connection timeout
 
 ### Exit Codes
