@@ -32,7 +32,7 @@ A host is considered reachable if any of these ports accepts connections. This a
 
 1. **Clone or download this repository**:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/hiveryparkk/ip-connectivity-tester
    cd ip-connectivity-tester
    ```
 
