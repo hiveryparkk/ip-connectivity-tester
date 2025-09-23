@@ -163,6 +163,8 @@ Feel free to submit issues and enhancement requests!
 
 This project is open source and available under the MIT License.
 
+## Community
+
 Also make sure to join our discord server and get updated on a specific repository, receive extended help, find our tutorials and troubleshoot files and more!
 
 https://discord.gg/r89mbJH232
